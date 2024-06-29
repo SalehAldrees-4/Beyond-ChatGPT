@@ -1,5 +1,5 @@
-chainlit==0.7.700
+chainlit
 cohere==4.37
 openai==1.3.5
-tiktoken==0.5.1
+tiktoken
 python-dotenv==1.0.0
